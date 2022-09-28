@@ -11,8 +11,9 @@ Most recently, I worked as a Junior SEO Specialist for two years. I try to be a 
 
 ## Social media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MattyKarpinski)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MattyKarpinski/)  
+[<img src="https://api.iconify.design/logos/github-octocat.svg?width=50&height50">](https://www.linkedin.com/in/MattyKarpinski/) 
+[<img src="https://api.iconify.design/logos/linkedin-icon.svg?width=50&height=50">](https://www.linkedin.com/in/MattyKarpinski/)  
+
 
 ## More info
 
