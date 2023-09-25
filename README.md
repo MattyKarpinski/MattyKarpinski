@@ -28,7 +28,7 @@ Most recently, I worked as a Junior SEO Specialist for two years. I try to be a 
 
 ## More info
 
-- 📫 How to reach me? Just check out my portfolio website [mateuszkarpinski.netlify.app](mateuszkarpinski.netlify.app) then you can email to me or read more abut me
+- 📫 How to reach me? Just check out my portfolio website [mateuszkarpinski.netlify.app](https://mateuszkarpinski.netlify.app/) then you can email to me or read more abut me
 - 👀 I’m interested in finding a job as a Frontend Developer with React.js
 - 🌱 I’m currently learning React.js, but web3 is in the plans for the future
 - 💞️ I’m looking to collaborate on websites but I'm open for different options
