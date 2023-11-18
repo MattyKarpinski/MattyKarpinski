@@ -30,5 +30,5 @@ Most recently, I worked as a SEO Specialist for 3 years. I try to be a multidisc
 
 - 📫 How to reach me? Just check out my portfolio website [mateuszkarpinski.netlify.app](https://mateuszkarpinski.netlify.app/) then you can email to me or read more abut me
 - 👀 I’m interested in finding a job as a Frontend Developer with React.js
-- 🌱 I’m currently learning React.js, but web3 is in the plans for the future
+- 🌱 I'm currently dealing with React.js
 - 💞️ I’m looking to collaborate on websites but I'm open for different options
