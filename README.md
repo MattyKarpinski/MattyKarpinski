@@ -2,7 +2,7 @@
 
 # Hello stranger, 👋, sit back and take a look at my profile 😄
 
-Most recently, I worked as a Junior SEO Specialist for two years. I try to be a multidisciplinary person because of the particularly wide range of fields that have a direct impact on the construction of digital products, especially their customisation for users. For this reason, I seek knowledge from various fields such as Frontend Development, SEO or User Experience. Maybe one day I will manage to become the proverbial "Unicorn".
+Most recently, I worked as a SEO Specialist for 3 years. I try to be a multidisciplinary person because of the particularly wide range of fields that have a direct impact on the construction of digital products, especially their customisation for users. For this reason, I seek knowledge from various fields such as Frontend Development, SEO or User Experience. Maybe one day I will manage to become the proverbial "Unicorn".
 
 ## Skills
 
